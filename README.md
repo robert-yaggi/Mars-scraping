@@ -10,7 +10,7 @@ Mars Weather Web Scraping Activity Analysis
 
 
 - From an atmospheric pressure perspective, Month 6 has the lowest average pressure while Month 9 has the highest average.
-month	pressure
+![image](https://github.com/robert-yaggi/Mars-scraping/assets/153320218/52457fc5-bf1a-43b9-aa27-b4850627af5c)
 
 The number of terrestrial days in a Martian year is 687 days however the plot appears to show around 675 days. 
 
