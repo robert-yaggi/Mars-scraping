@@ -6,8 +6,8 @@ Mars Weather Web Scraping Activity Analysis
 - There are 1,867 total Martian days worth of data within this dataset. 
 
 - On average, Month 3 experiences the lowest temperature while Month 8 experiences the highest temperature. 
-The average daily temperature ranges are:
-month	min_temp
+![image](https://github.com/robert-yaggi/Mars-scraping/assets/153320218/f7b806ab-ebba-42a2-a3d9-d145c06b720c)
+
 
 - From an atmospheric pressure perspective, Month 6 has the lowest average pressure while Month 9 has the highest average.
 month	pressure
